@@ -3,7 +3,44 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Works/Android/TestDeepLink/app/src/main/res/layout/activity_main.xml" value="0.11927083333333334" />
+        <entry key="..\:/Works/Android/360Camera/app/src/main/res/drawable/ic_account.xml" value="0.18333333333333332" />
+        <entry key="..\:/Works/Android/360Camera/app/src/main/res/drawable/ic_aspect_ratio.xml" value="0.2755208333333333" />
+        <entry key="..\:/Works/Android/360Camera/app/src/main/res/drawable/ic_camera.xml" value="0.1" />
+        <entry key="..\:/Works/Android/360Camera/app/src/main/res/drawable/ic_check.xml" value="0.18333333333333332" />
+        <entry key="..\:/Works/Android/360Camera/app/src/main/res/drawable/ic_circle.xml" value="0.18333333333333332" />
+        <entry key="..\:/Works/Android/360Camera/app/src/main/res/drawable/ic_close.xml" value="0.17135416666666667" />
+        <entry key="..\:/Works/Android/360Camera/app/src/main/res/drawable/ic_contributor.xml" value="0.18333333333333332" />
+        <entry key="..\:/Works/Android/360Camera/app/src/main/res/drawable/ic_delete.xml" value="0.18333333333333332" />
+        <entry key="..\:/Works/Android/360Camera/app/src/main/res/drawable/ic_ellipsis.xml" value="0.18333333333333332" />
+        <entry key="..\:/Works/Android/360Camera/app/src/main/res/drawable/ic_error.xml" value="0.18333333333333332" />
+        <entry key="..\:/Works/Android/360Camera/app/src/main/res/drawable/ic_exit.xml" value="0.1" />
+        <entry key="..\:/Works/Android/360Camera/app/src/main/res/drawable/ic_file.xml" value="0.18333333333333332" />
+        <entry key="..\:/Works/Android/360Camera/app/src/main/res/drawable/ic_headline.xml" value="0.18333333333333332" />
+        <entry key="..\:/Works/Android/360Camera/app/src/main/res/drawable/ic_home.xml" value="0.18333333333333332" />
+        <entry key="..\:/Works/Android/360Camera/app/src/main/res/drawable/ic_info.xml" value="0.18333333333333332" />
+        <entry key="..\:/Works/Android/360Camera/app/src/main/res/drawable/ic_layers.xml" value="0.18333333333333332" />
+        <entry key="..\:/Works/Android/360Camera/app/src/main/res/drawable/ic_layers_normal.xml" value="0.18333333333333332" />
+        <entry key="..\:/Works/Android/360Camera/app/src/main/res/drawable/ic_list.xml" value="0.18333333333333332" />
+        <entry key="..\:/Works/Android/360Camera/app/src/main/res/drawable/ic_location.xml" value="0.18333333333333332" />
+        <entry key="..\:/Works/Android/360Camera/app/src/main/res/drawable/ic_mail.xml" value="0.18333333333333332" />
+        <entry key="..\:/Works/Android/360Camera/app/src/main/res/drawable/ic_pencil.xml" value="0.18333333333333332" />
+        <entry key="..\:/Works/Android/360Camera/app/src/main/res/drawable/ic_pencil_white.xml" value="0.18333333333333332" />
+        <entry key="..\:/Works/Android/360Camera/app/src/main/res/drawable/ic_random.xml" value="0.18333333333333332" />
+        <entry key="..\:/Works/Android/360Camera/app/src/main/res/drawable/ic_refresh.xml" value="0.18333333333333332" />
+        <entry key="..\:/Works/Android/360Camera/app/src/main/res/drawable/ic_search.xml" value="0.18333333333333332" />
+        <entry key="..\:/Works/Android/360Camera/app/src/main/res/drawable/ic_send.xml" value="0.18333333333333332" />
+        <entry key="..\:/Works/Android/360Camera/app/src/main/res/drawable/ic_stars.xml" value="0.18333333333333332" />
+        <entry key="..\:/Works/Android/360Camera/app/src/main/res/drawable/ic_timestamp.xml" value="0.18333333333333332" />
+        <entry key="..\:/Works/Android/360Camera/app/src/main/res/drawable/ic_upload.xml" value="0.18333333333333332" />
+        <entry key="..\:/Works/Android/360Camera/app/src/main/res/drawable/ic_visibility.xml" value="0.18333333333333332" />
+        <entry key="..\:/Works/Android/360Camera/app/src/main/res/drawable/ic_warning.xml" value="0.18333333333333332" />
+        <entry key="..\:/Works/Android/360Camera/app/src/main/res/drawable/ic_whatshot.xml" value="0.18333333333333332" />
+        <entry key="..\:/Works/Android/360Camera/app/src/main/res/drawable/ic_whatshot_normal.xml" value="0.18333333333333332" />
+        <entry key="..\:/Works/Android/360Camera/app/src/main/res/drawable/ic_world.xml" value="0.18333333333333332" />
+        <entry key="..\:/Works/Android/360Camera/app/src/main/res/layout-v14/texture_view.xml" value="0.13333333333333333" />
+        <entry key="..\:/Works/Android/360Camera/app/src/main/res/layout/activity_main.xml" value="0.259375" />
+        <entry key="..\:/Works/Android/360Camera/app/src/main/res/layout/camera_fragment.xml" value="0.259375" />
+        <entry key="..\:/Works/Android/360Camera/app/src/main/res/menu/main.xml" value="0.13333333333333333" />
       </map>
     </option>
   </component>

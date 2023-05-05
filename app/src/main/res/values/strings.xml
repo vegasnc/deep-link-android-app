@@ -1,3 +1,16 @@
 <resources>
-    <string name="app_name">TestDeepLink</string>
+    <string name="app_name">360Camera</string>
+    <string name="camera_permission_confirmation">This app demonstrates the usage of CameraView. In order to do that, it needs permission to access camera.</string>
+    <string name="camera_permission_not_granted">Camera app cannot do anything without camera permission.</string>
+    <string name="picture_taken">Picture taken</string>
+    <string name="aspect_ratio">Aspect ratio</string>
+    <string name="switch_flash">Switch flash</string>
+    <string name="switch_camera">Switch camera</string>
+    <string name="exit_app">Exit</string>
+    <string name="flash_auto">Flash auto</string>
+    <string name="flash_off">Flash off</string>
+    <string name="flash_on">Flash on</string>
+    <string name="fov_camera">FOV</string>
+    <string name="pic_dimension">Picture Dimension</string>
+    <string name="camera_pose">Camera Pose</string>
 </resources>

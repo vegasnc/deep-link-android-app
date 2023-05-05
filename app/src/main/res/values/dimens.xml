@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="_4sdp">4dp</dimen>
+    <dimen name="_5sdp">5dp</dimen>
+    <dimen name="_12sdp">12dp</dimen>
+    <dimen name="_18sdp">18dp</dimen>
+    <dimen name="_35sdp">35dp</dimen>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+</resources>
